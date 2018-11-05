@@ -212,7 +212,7 @@ var myFunc = document.addEventListener("DOMContentLoaded", function () {
     var canvasDiv = document.getElementById("home");
     var options = {
         particleColor: "#888",
-        background: "/img/8.jpg",
+        background: "img/8.jpg",
         interactive: true,
         speed: "medium",
         density: "high"
