@@ -209,7 +209,7 @@ var myFunc = document.addEventListener("DOMContentLoaded", function () {
 
     // Initialization
 
-    var canvasDiv = document.getElementById("particle-canvas");
+    var canvasDiv = document.getElementById("home");
     var options = {
         particleColor: "#888",
         background: "/img/8.jpg",
